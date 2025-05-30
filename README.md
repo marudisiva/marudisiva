@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marudisiva
 - 👀 I’m interested in challenges
-- 💞️ I’m looking to collaborate on FrontEnd development
-
+- 💞️ I’m looking to collaborate
 
 <!---
 marudisiva/marudisiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
